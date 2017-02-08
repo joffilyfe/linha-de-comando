@@ -58,3 +58,8 @@ print(pf)
 print(pf.minhaIdade())
 
 
+// Basic
+
+for n in 1...5 {
+  print(n)
+}
